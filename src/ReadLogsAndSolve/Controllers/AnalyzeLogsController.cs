@@ -5,10 +5,10 @@ using System.Web.Mvc;
 
 namespace ReadLogsAndSolve.Controllers
 {
-    public class AnalyizLogsController : Controller
+    public class AnalyzeLogsController : Controller
     {
         
-        public async Task<String> testApi()
+        public async Task<String> SolveError()
         {
             await ResponseToFile.AnalyzeLogErrorsAndSaveResponseAsync();
             return "AI analysis completed successfully.";

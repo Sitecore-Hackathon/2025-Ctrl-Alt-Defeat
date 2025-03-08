@@ -1,0 +1,23 @@
+{
+	"info": {
+		"_postman_id": "ae28f8be-9441-4f59-b9b6-ecf465342b6a",
+		"name": "Sitecore-Hackthon-2025",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "29242704",
+		"_collection_link": "https://team-todfod.postman.co/workspace/Team-TodFod-Workspace~09a6a7b5-6a1c-4be9-836c-d7eb6e25183f/collection/29242704-ae28f8be-9441-4f59-b9b6-ecf465342b6a?action=share&source=collection_link&creator=29242704"
+	},
+	"item": [
+		{
+			"name": "https://localhost:44313/api/AnalyzeLogs/SolveError",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": "https://localhost:44313/api/AnalyzeLogs/SolveError"
+			},
+			"response": []
+		}
+	]
+}
