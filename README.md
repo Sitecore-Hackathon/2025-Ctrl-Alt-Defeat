@@ -31,7 +31,7 @@ Our tool automates this process by:
 - **Better debugging efficiency**: Developers can focus on fixing issues instead of searching for them.
 
 ## Video link
-![Demo Link](https://horizontal-my.sharepoint.com/:v:/p/ajha/EW_KQMBVO3dJuMLmg19oZigB8DLL1POdUCGbDgCYHsHMjw?e=UnFFn4)
+[Demo Link](https://horizontal-my.sharepoint.com/:v:/p/ajha/EW_KQMBVO3dJuMLmg19oZigB8DLL1POdUCGbDgCYHsHMjw?e=UnFFn4)
 
 ## Pre-requisites and Dependencies
 - Sitecore XM or XP
@@ -53,6 +53,7 @@ Our tool automates this process by:
     <add key="LogDirectory" value="logs" />
     <add key="APIKey" value="##########" />
 }
+```
 
 ## Usage instructions
 1. Execute the utility to fetch and analyze the latest Sitecore logs.
